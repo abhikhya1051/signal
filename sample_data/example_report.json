@@ -1,0 +1,1452 @@
+{
+ "note": "It was made with a simple keyword-matching stand-in while the app was being built, so some comments may be misfiled.",
+ "headline": "Watch sync failures are driving most of your unhappy reviews",
+ "summary": "Of 150 reviews, 37 report runs not syncing from watches, the largest problem by far. Billing complaints (24) and crashes (22) follow, while the training plans are the most loved feature with 32 mentions.",
+ "recommendation": "Fix watch sync first: it touches nearly a quarter of all reviews and causes users to lose training history.",
+ "total": 150,
+ "truncated": false,
+ "themes": [
+  {
+   "name": "Watch sync failures",
+   "description": "Runs recorded on watches fail to appear or duplicate.",
+   "kind": "problem",
+   "mentions": 37,
+   "share": 24.7,
+   "negative": 37,
+   "positive": 0,
+   "neutral": 0,
+   "quotes": [
+    "Long-time user here. The watch app says 'synced' but the phone shows nothing. Very frustrating. Otherwise great app.",
+    "Quick note: Workouts recorded on my watch take hours to appear, if they appear at all. Thinking of switching.",
+    "Ugh. Apple Watch sync is broken. Did a 10k this morning and it's nowhere in the app. Thinking of switching."
+   ]
+  },
+  {
+   "name": "Surprise charges and pricing",
+   "description": "Users feel billing is opaque and the price too high.",
+   "kind": "problem",
+   "mentions": 24,
+   "share": 16.0,
+   "negative": 24,
+   "positive": 0,
+   "neutral": 0,
+   "quotes": [
+    "Ugh. Love the app but $14.99 a month is hard to justify next to the competition. Thinking of switching.",
+    "Update: The 'Pro' upsell popup appears after every single run. So pushy. Thinking of switching.",
+    "Long-time user here. Free trial converted to paid with no reminder email. Not cool. Please fix."
+   ]
+  },
+  {
+   "name": "Crashes after update",
+   "description": "App freezes, crashes or loads slowly.",
+   "kind": "problem",
+   "mentions": 22,
+   "share": 14.7,
+   "negative": 22,
+   "positive": 0,
+   "neutral": 0,
+   "quotes": [
+    "Long-time user here. Laggy and slow after the redesign, everything takes extra taps and loads. Thinking of switching.",
+    "Quick note: The map screen stutters constantly on my phone, battery drains fast too. Thinking of switching.",
+    "Long-time user here. It takes almost 20 seconds to open. It used to be instant. Thinking of switching."
+   ]
+  },
+  {
+   "name": "Inaccurate GPS distance",
+   "description": "Distance, pace and routes are recorded wrongly.",
+   "kind": "problem",
+   "mentions": 15,
+   "share": 10.0,
+   "negative": 15,
+   "positive": 0,
+   "neutral": 0,
+   "quotes": [
+    "Long-time user here. Treadmill vs outdoor detection is wrong, it logged my park run as indoor. Otherwise great app.",
+    "Long-time user here. The route map cuts corners and shows me running through buildings. Otherwise great app.",
+    "My pace jumps around wildly. It said I ran a 3-minute mile, I promise I didn't. Otherwise great app."
+   ]
+  },
+  {
+   "name": "Requested features",
+   "description": "Offline mode, dark mode, exports and more.",
+   "kind": "request",
+   "mentions": 12,
+   "share": 8.0,
+   "negative": 0,
+   "positive": 0,
+   "neutral": 12,
+   "quotes": [
+    "Long-time user here. Please add dark mode, the white screen is blinding at 5am. Thinking of switching.",
+    "Long-time user here. Would love an offline mode for trail runs with no signal. Otherwise great app.",
+    "Ugh. An option to set a different weekly goal for each week would be great. Otherwise great app."
+   ]
+  },
+  {
+   "name": "Loved training plans",
+   "description": "Guided plans and coaching keep users motivated.",
+   "kind": "praise",
+   "mentions": 32,
+   "share": 21.3,
+   "negative": 0,
+   "positive": 32,
+   "neutral": 0,
+   "quotes": [
+    "Long-time user here. The half marathon plan is excellent, better than paid coaches I've tried.",
+    "Long-time user here. I finally hit a sub-25 5k thanks to the interval workouts. Thanks team!",
+    "Honestly, The 10k training plan got me from couch to my first race. Amazing. Thanks team!"
+   ]
+  }
+ ],
+ "tagged": [
+  {
+   "review_id": "R0001",
+   "date": "2026-08-30",
+   "source": "App Store",
+   "rating": 3,
+   "review_text": "Quick note: Please let me customise which stats show on the run screen. Please fix.",
+   "theme": "Requested features",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0002",
+   "date": "2026-08-07",
+   "source": "Google Play",
+   "rating": 4,
+   "review_text": "Love how the plan builds week by week, I always know what to do today.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0003",
+   "date": "2026-07-10",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Quick note: Sync with my Fitbit stopped working after the last update. Thinking of switching.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0004",
+   "date": "2026-08-04",
+   "source": "Google Play",
+   "rating": 5,
+   "review_text": "Clean design and the training plans are spot on.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0005",
+   "date": "2026-07-27",
+   "source": "App Store",
+   "rating": 5,
+   "review_text": "The coaching tips after each run are genuinely useful, not generic.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0006",
+   "date": "2026-07-10",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "Beginner plan is very encouraging, no judgment, just progress.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0007",
+   "date": "2026-07-19",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Ugh. Way too expensive for what you get. The price went up again without notice.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0008",
+   "date": "2026-08-16",
+   "source": "App Store",
+   "rating": 3,
+   "review_text": "Honestly, Asked for a refund for an accidental renewal, got a canned response.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0009",
+   "date": "2026-09-16",
+   "source": "Google Play",
+   "rating": 3,
+   "review_text": "Ugh. Asked for a refund for an accidental renewal, got a canned response. Thanks team!",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0010",
+   "date": "2026-07-15",
+   "source": "Google Play",
+   "rating": 3,
+   "review_text": "Update: The 'Pro' upsell popup appears after every single run. So pushy. Thinking of switching.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0011",
+   "date": "2026-07-30",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Long-time user here. Crashed mid-marathon training run and I lost the whole thing.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0012",
+   "date": "2026-09-01",
+   "source": "Google Play",
+   "rating": 3,
+   "review_text": "It's fine. Does what it says.",
+   "theme": "Other",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0013",
+   "date": "2026-07-04",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Ugh. Workouts recorded on my watch take hours to appear, if they appear at all. Thinking of switching.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0014",
+   "date": "2026-07-01",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "I bought a new watch specifically for Stride and it can't stay connected. Please fix.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0015",
+   "date": "2026-09-26",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "The route map cuts corners and shows me running through buildings.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0016",
+   "date": "2026-08-21",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Update: Opening the history tab makes the whole app hang.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0017",
+   "date": "2026-07-19",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Keeps crashing on Android 15, please fix. Thanks team!",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0018",
+   "date": "2026-08-14",
+   "source": "Google Play",
+   "rating": 4,
+   "review_text": "Good app.",
+   "theme": "Other",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0019",
+   "date": "2026-08-10",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Lost three weeks of training history because the watch sync silently failed.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0020",
+   "date": "2026-08-12",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Apple Watch sync is broken. Did a 10k this morning and it's nowhere in the app.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0021",
+   "date": "2026-08-11",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Ugh. I was charged for a full year when I thought I was on a monthly trial.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0022",
+   "date": "2026-08-20",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Honestly, Since version 6.2 the app freezes on the summary screen after every workout.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0023",
+   "date": "2026-07-26",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Cancelling the subscription is buried five screens deep. Feels intentional.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0024",
+   "date": "2026-08-07",
+   "source": "Google Play",
+   "rating": 5,
+   "review_text": "The half marathon plan is excellent, better than paid coaches I've tried.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0025",
+   "date": "2026-08-17",
+   "source": "App Store",
+   "rating": 3,
+   "review_text": "Long-time user here. Would love an offline mode for trail runs with no signal. Otherwise great app.",
+   "theme": "Requested features",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0026",
+   "date": "2026-08-20",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Update: Got double charged this month and support hasn't replied in a week.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0027",
+   "date": "2026-09-14",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Honestly, My streak got reset because yesterday's run never synced from my watch.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0028",
+   "date": "2026-08-16",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Sync with Garmin Connect has been flaky for a month now.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0029",
+   "date": "2026-08-05",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Quick note: Every time I open the app I have to hit sync three times before my run shows. Thanks team!",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0030",
+   "date": "2026-08-05",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "Would love an offline mode for trail runs with no signal.",
+   "theme": "Requested features",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0031",
+   "date": "2026-07-07",
+   "source": "Google Play",
+   "rating": 5,
+   "review_text": "Adaptive plan adjusted when I got sick, which was really thoughtful.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0032",
+   "date": "2026-09-20",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Duplicated runs! Some workouts sync twice, others not at all.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0033",
+   "date": "2026-08-01",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Long-time user here. Free trial converted to paid with no reminder email. Not cool. Please fix.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0034",
+   "date": "2026-08-25",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "My runs from my Garmin just don't show up anymore. I have to re-pair every few days. Please fix.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0035",
+   "date": "2026-07-25",
+   "source": "Google Play",
+   "rating": 4,
+   "review_text": "Long-time user here. Please add dark mode, the white screen is blinding at 5am.",
+   "theme": "Requested features",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0036",
+   "date": "2026-08-24",
+   "source": "App Store",
+   "rating": 3,
+   "review_text": "Ugh. Treadmill vs outdoor detection is wrong, it logged my park run as indoor.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0037",
+   "date": "2026-09-19",
+   "source": "Google Play",
+   "rating": 3,
+   "review_text": "Haven't used it much yet.",
+   "theme": "Other",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0038",
+   "date": "2026-09-09",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Quick note: It takes almost 20 seconds to open. It used to be instant. Please fix.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0039",
+   "date": "2026-07-11",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Quick note: My runs from my Garmin just don't show up anymore. I have to re-pair every few days.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0040",
+   "date": "2026-08-22",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "My pace jumps around wildly. It said I ran a 3-minute mile, I promise I didn't.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0041",
+   "date": "2026-09-17",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "Long-time user here. Clean design and the training plans are spot on.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0042",
+   "date": "2026-09-21",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "GPS distance is off by almost half a mile on a 5k loop I know well.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0043",
+   "date": "2026-09-01",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Quick note: Workouts recorded on my watch take hours to appear, if they appear at all. Thinking of switching.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0044",
+   "date": "2026-09-09",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Long-time user here. Since version 6.2 the app freezes on the summary screen after every workout.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0045",
+   "date": "2026-07-22",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Long-time user here. Sync with my Fitbit stopped working after the last update.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0046",
+   "date": "2026-08-23",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "My pace jumps around wildly. It said I ran a 3-minute mile, I promise I didn't.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0047",
+   "date": "2026-08-06",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Honestly, Got double charged this month and support hasn't replied in a week.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0048",
+   "date": "2026-08-02",
+   "source": "Google Play",
+   "rating": 3,
+   "review_text": "Would be great to share routes with friends in the app. Otherwise great app.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0049",
+   "date": "2026-08-21",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Long-time user here. Heart rate data from my watch comes through but the route never does. Thanks team!",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0050",
+   "date": "2026-08-08",
+   "source": "Google Play",
+   "rating": 4,
+   "review_text": "Honestly, Guided audio runs are the best feature, the coach voice keeps me going.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0051",
+   "date": "2026-09-10",
+   "source": "Google Play",
+   "rating": 5,
+   "review_text": "Long-time user here. The 10k training plan got me from couch to my first race. Amazing.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0052",
+   "date": "2026-07-16",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Most features moved behind the paywall. The free version is basically useless now.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0053",
+   "date": "2026-09-21",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "Clean design and the training plans are spot on.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0054",
+   "date": "2026-07-10",
+   "source": "App Store",
+   "rating": 3,
+   "review_text": "The 'Pro' upsell popup appears after every single run. So pushy.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0055",
+   "date": "2026-09-03",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "It takes almost 20 seconds to open. It used to be instant.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0056",
+   "date": "2026-09-09",
+   "source": "App Store",
+   "rating": 3,
+   "review_text": "Update: I was charged for a full year when I thought I was on a monthly trial. Thanks team!",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0057",
+   "date": "2026-08-27",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Quick note: Every time I open the app I have to hit sync three times before my run shows. Thanks team!",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0058",
+   "date": "2026-08-27",
+   "source": "Google Play",
+   "rating": 3,
+   "review_text": "Switched from another app, still getting used to it.",
+   "theme": "Other",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0059",
+   "date": "2026-07-18",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Lost three weeks of training history because the watch sync silently failed. Please fix.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0060",
+   "date": "2026-08-01",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "The coaching tips after each run are genuinely useful, not generic.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0061",
+   "date": "2026-07-23",
+   "source": "Google Play",
+   "rating": 5,
+   "review_text": "I finally hit a sub-25 5k thanks to the interval workouts.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0062",
+   "date": "2026-09-10",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "The 10k training plan got me from couch to my first race. Amazing.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0063",
+   "date": "2026-08-10",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Lost three weeks of training history because the watch sync silently failed. Otherwise great app.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0064",
+   "date": "2026-08-17",
+   "source": "Google Play",
+   "rating": 3,
+   "review_text": "Long-time user here. Please add dark mode, the white screen is blinding at 5am. Thinking of switching.",
+   "theme": "Requested features",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0065",
+   "date": "2026-09-11",
+   "source": "App Store",
+   "rating": 5,
+   "review_text": "I finally hit a sub-25 5k thanks to the interval workouts.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0066",
+   "date": "2026-07-03",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Since version 6.2 the app freezes on the summary screen after every workout.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0067",
+   "date": "2026-08-19",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Long-time user here. Heart rate data from my watch comes through but the route never does.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0068",
+   "date": "2026-09-06",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Honestly, Free trial converted to paid with no reminder email. Not cool. Otherwise great app.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0069",
+   "date": "2026-08-18",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Most features moved behind the paywall. The free version is basically useless now.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0070",
+   "date": "2026-08-13",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Ugh. Apple Watch sync is broken. Did a 10k this morning and it's nowhere in the app. Thinking of switching.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0071",
+   "date": "2026-09-02",
+   "source": "Google Play",
+   "rating": 4,
+   "review_text": "Can you add strength training to the plans, not just running?",
+   "theme": "Requested features",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0072",
+   "date": "2026-09-12",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Keeps crashing on Android 15, please fix.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0073",
+   "date": "2026-07-17",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "GPS takes forever to lock on before a run starts. Thinking of switching.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0074",
+   "date": "2026-07-12",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Sync with my Fitbit stopped working after the last update. Thanks team!",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0075",
+   "date": "2026-08-01",
+   "source": "Google Play",
+   "rating": 4,
+   "review_text": "Love how the plan builds week by week, I always know what to do today.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0076",
+   "date": "2026-08-21",
+   "source": "Google Play",
+   "rating": 5,
+   "review_text": "The half marathon plan is excellent, better than paid coaches I've tried.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0077",
+   "date": "2026-08-25",
+   "source": "Google Play",
+   "rating": 4,
+   "review_text": "Long-time user here. The coaching tips after each run are genuinely useful, not generic.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0078",
+   "date": "2026-07-03",
+   "source": "App Store",
+   "rating": 5,
+   "review_text": "Honestly, The 10k training plan got me from couch to my first race. Amazing. Thanks team!",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0079",
+   "date": "2026-07-05",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Quick note: The map screen stutters constantly on my phone, battery drains fast too. Thinking of switching.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0080",
+   "date": "2026-09-29",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "GPS distance is off by almost half a mile on a 5k loop I know well.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0081",
+   "date": "2026-09-14",
+   "source": "Google Play",
+   "rating": 4,
+   "review_text": "Long-time user here. I finally hit a sub-25 5k thanks to the interval workouts. Thanks team!",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0082",
+   "date": "2026-07-01",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Honestly, The watch app says 'synced' but the phone shows nothing. Very frustrating.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0083",
+   "date": "2026-08-20",
+   "source": "Google Play",
+   "rating": 4,
+   "review_text": "Adaptive plan adjusted when I got sick, which was really thoughtful.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0084",
+   "date": "2026-08-27",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "I was charged for a full year when I thought I was on a monthly trial.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0085",
+   "date": "2026-07-14",
+   "source": "App Store",
+   "rating": 5,
+   "review_text": "Long-time user here. The half marathon plan is excellent, better than paid coaches I've tried.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0086",
+   "date": "2026-07-20",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Honestly, Keeps crashing on Android 15, please fix.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0087",
+   "date": "2026-09-05",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "Honestly, Adaptive plan adjusted when I got sick, which was really thoughtful.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0088",
+   "date": "2026-09-28",
+   "source": "Google Play",
+   "rating": 5,
+   "review_text": "Love how the plan builds week by week, I always know what to do today.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0089",
+   "date": "2026-07-11",
+   "source": "App Store",
+   "rating": 3,
+   "review_text": "Wish I could export my runs as GPX files. Thanks team!",
+   "theme": "Requested features",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0090",
+   "date": "2026-07-01",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "An option to set a different weekly goal for each week would be great. Thanks team!",
+   "theme": "Requested features",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0091",
+   "date": "2026-07-30",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Cancelling the subscription is buried five screens deep. Feels intentional.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0092",
+   "date": "2026-09-21",
+   "source": "Google Play",
+   "rating": 4,
+   "review_text": "Guided audio runs are the best feature, the coach voice keeps me going.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0093",
+   "date": "2026-07-17",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Long-time user here. Crashed mid-marathon training run and I lost the whole thing. Please fix.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0094",
+   "date": "2026-09-06",
+   "source": "Google Play",
+   "rating": 3,
+   "review_text": "GPS takes forever to lock on before a run starts.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0095",
+   "date": "2026-09-28",
+   "source": "App Store",
+   "rating": 3,
+   "review_text": "Honestly, Please offer a cheaper plan without the meal-planning stuff I never use.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0096",
+   "date": "2026-07-13",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Got double charged this month and support hasn't replied in a week.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0097",
+   "date": "2026-08-08",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Quick note: App crashes the moment I tap 'Start run'. Thanks team!",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0098",
+   "date": "2026-08-19",
+   "source": "Google Play",
+   "rating": 3,
+   "review_text": "Would be great to share routes with friends in the app.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0099",
+   "date": "2026-07-29",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "Can you add strength training to the plans, not just running?",
+   "theme": "Requested features",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0100",
+   "date": "2026-07-02",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "I bought a new watch specifically for Stride and it can't stay connected. Thinking of switching.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0101",
+   "date": "2026-08-28",
+   "source": "Google Play",
+   "rating": 3,
+   "review_text": "Long-time user here. The route map cuts corners and shows me running through buildings. Otherwise great app.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0102",
+   "date": "2026-08-10",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "Please let me customise which stats show on the run screen.",
+   "theme": "Requested features",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0103",
+   "date": "2026-08-30",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Quick note: Opening the history tab makes the whole app hang.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0104",
+   "date": "2026-09-09",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "My streak got reset because yesterday's run never synced from my watch.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0105",
+   "date": "2026-07-04",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Long-time user here. The watch app says 'synced' but the phone shows nothing. Very frustrating. Otherwise great app.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0106",
+   "date": "2026-09-29",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "The map screen stutters constantly on my phone, battery drains fast too.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0107",
+   "date": "2026-07-08",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "Beginner plan is very encouraging, no judgment, just progress. Thanks team!",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0108",
+   "date": "2026-07-25",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Quick note: Most features moved behind the paywall. The free version is basically useless now.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0109",
+   "date": "2026-09-25",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Workouts recorded on my watch take hours to appear, if they appear at all. Please fix.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0110",
+   "date": "2026-07-11",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Love the app but $14.99 a month is hard to justify next to the competition.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0111",
+   "date": "2026-07-30",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Ugh. The watch app says 'synced' but the phone shows nothing. Very frustrating.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0112",
+   "date": "2026-08-17",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "Works on my phone.",
+   "theme": "Other",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0113",
+   "date": "2026-09-02",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Ugh. Please offer a cheaper plan without the meal-planning stuff I never use.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0114",
+   "date": "2026-09-28",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Heart rate data from my watch comes through but the route never does.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0115",
+   "date": "2026-09-30",
+   "source": "Google Play",
+   "rating": 3,
+   "review_text": "ok",
+   "theme": "Other",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0116",
+   "date": "2026-08-16",
+   "source": "Google Play",
+   "rating": 4,
+   "review_text": "Recovery day suggestions saved me from overtraining.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0117",
+   "date": "2026-07-26",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Duplicated runs! Some workouts sync twice, others not at all. Thanks team!",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0118",
+   "date": "2026-08-07",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "Nice colors.",
+   "theme": "Other",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0119",
+   "date": "2026-07-27",
+   "source": "Google Play",
+   "rating": 4,
+   "review_text": "Wish I could export my runs as GPX files.",
+   "theme": "Requested features",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0120",
+   "date": "2026-07-26",
+   "source": "Google Play",
+   "rating": 4,
+   "review_text": "Guided audio runs are the best feature, the coach voice keeps me going.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0121",
+   "date": "2026-07-25",
+   "source": "App Store",
+   "rating": 5,
+   "review_text": "Recovery day suggestions saved me from overtraining.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0122",
+   "date": "2026-08-29",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Quick note: I bought a new watch specifically for Stride and it can't stay connected.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0123",
+   "date": "2026-08-03",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Update: Apple Watch sync is broken. Did a 10k this morning and it's nowhere in the app.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0124",
+   "date": "2026-07-14",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "My pace jumps around wildly. It said I ran a 3-minute mile, I promise I didn't. Otherwise great app.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0125",
+   "date": "2026-09-17",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Long-time user here. The map screen stutters constantly on my phone, battery drains fast too. Please fix.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0126",
+   "date": "2026-07-29",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Ugh. Way too expensive for what you get. The price went up again without notice. Please fix.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0127",
+   "date": "2026-08-23",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Update: App crashes the moment I tap 'Start run'.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0128",
+   "date": "2026-09-15",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Duplicated runs! Some workouts sync twice, others not at all. Thinking of switching.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0129",
+   "date": "2026-08-20",
+   "source": "App Store",
+   "rating": 3,
+   "review_text": "Quick note: Distance is always shorter than my watch, which makes my pace look worse. Please fix.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0130",
+   "date": "2026-07-28",
+   "source": "App Store",
+   "rating": 3,
+   "review_text": "Update: Distance is always shorter than my watch, which makes my pace look worse. Thanks team!",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0131",
+   "date": "2026-09-15",
+   "source": "App Store",
+   "rating": 3,
+   "review_text": "Ugh. An option to set a different weekly goal for each week would be great. Otherwise great app.",
+   "theme": "Requested features",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0132",
+   "date": "2026-08-23",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Cancelling the subscription is buried five screens deep. Feels intentional. Please fix.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0133",
+   "date": "2026-09-29",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Distance is always shorter than my watch, which makes my pace look worse. Thinking of switching.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0134",
+   "date": "2026-07-24",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Quick note: Way too expensive for what you get. The price went up again without notice.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0135",
+   "date": "2026-08-27",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Crashed mid-marathon training run and I lost the whole thing.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0136",
+   "date": "2026-07-15",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Every time I open the app I have to hit sync three times before my run shows. Otherwise great app.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0137",
+   "date": "2026-07-22",
+   "source": "Google Play",
+   "rating": 5,
+   "review_text": "Five stars for the community challenges!",
+   "theme": "Other",
+   "sentiment": "neutral"
+  },
+  {
+   "review_id": "R0138",
+   "date": "2026-07-25",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Ugh. GPS distance is off by almost half a mile on a 5k loop I know well. Please fix.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0139",
+   "date": "2026-09-22",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Update: The route map cuts corners and shows me running through buildings. Please fix.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0140",
+   "date": "2026-07-05",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Long-time user here. Treadmill vs outdoor detection is wrong, it logged my park run as indoor. Otherwise great app.",
+   "theme": "Inaccurate GPS distance",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0141",
+   "date": "2026-09-24",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Long-time user here. Laggy and slow after the redesign, everything takes extra taps and loads. Thinking of switching.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0142",
+   "date": "2026-08-17",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "My runs from my Garmin just don't show up anymore. I have to re-pair every few days. Thanks team!",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0143",
+   "date": "2026-08-26",
+   "source": "App Store",
+   "rating": 4,
+   "review_text": "Recovery day suggestions saved me from overtraining.",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0144",
+   "date": "2026-07-14",
+   "source": "App Store",
+   "rating": 2,
+   "review_text": "Honestly, App crashes the moment I tap 'Start run'. Thinking of switching.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0145",
+   "date": "2026-07-11",
+   "source": "Google Play",
+   "rating": 1,
+   "review_text": "Ugh. Love the app but $14.99 a month is hard to justify next to the competition. Thinking of switching.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0146",
+   "date": "2026-07-11",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Free trial converted to paid with no reminder email. Not cool.",
+   "theme": "Surprise charges and pricing",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0147",
+   "date": "2026-08-23",
+   "source": "App Store",
+   "rating": 5,
+   "review_text": "Beginner plan is very encouraging, no judgment, just progress. Thanks team!",
+   "theme": "Loved training plans",
+   "sentiment": "positive"
+  },
+  {
+   "review_id": "R0148",
+   "date": "2026-09-10",
+   "source": "App Store",
+   "rating": 1,
+   "review_text": "Honestly, Sync with Garmin Connect has been flaky for a month now.",
+   "theme": "Watch sync failures",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0149",
+   "date": "2026-08-18",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Honestly, Laggy and slow after the redesign, everything takes extra taps and loads.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  },
+  {
+   "review_id": "R0150",
+   "date": "2026-08-09",
+   "source": "Google Play",
+   "rating": 2,
+   "review_text": "Long-time user here. It takes almost 20 seconds to open. It used to be instant. Thinking of switching.",
+   "theme": "Crashes after update",
+   "sentiment": "negative"
+  }
+ ]
+}
